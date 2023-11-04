@@ -1,0 +1,15 @@
+***********************
+Servlets and JSP notes-
+***********************
+------------------------------------------
+Model View Controller (MVC)
+Servlets don’t have a main() method.
+They’re under the control of another Java
+application called a Container.
+Tomcat is an example of a Container.
+HTML- the HyperText
+Markup Language
+POST is a more powerful request. It’s like a
+GET plus plus
+URLs-Uniform Resource Locators,
+-----------------------------------------------

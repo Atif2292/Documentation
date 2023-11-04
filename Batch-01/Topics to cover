@@ -1,0 +1,38 @@
+****************
+Topics to cover
+****************
+
+1) Spring security
+
+--> Authentication
+i) Basic Authentication
+ii) Token Based Authentication
+
+--> Authorisation
+* OAUTH 2.0
+Grant Type
+i)Client credentials
+ii)Authorisation Code
+iii)Password
+iv)Implicit
+
+**
+Topic that should be covered with OAUTH i.e third party appilication integration
+(Zoho Analytics ,Gmail ,Google Docs ,Google Sheets ,Google drive,Stripe ,Razorpay,
+Zapier, Zoho Flows,Google drive  )
+**
+
+2) Spring Acutor , prometheus , Grafana
+3) Activity BPMN -->  framework written in JAVA
+4) Kubernetes
+5) Docker
+6) AWS
+7) Nginx
+8) Spring cloud
+9) Apache Casendra
+#10) Relational database (MYSQL) and SQL
+#11) Hibernate
+12) Spark
+13) Apache Kafka
+14) Multi Module maven project
+#15) ER diagram using mysql.

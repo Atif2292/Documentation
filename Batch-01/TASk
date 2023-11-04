@@ -1,0 +1,176 @@
+***********************************************************************
+                          -Daily Tasks-
+************************************************************************
+
+*******
+TASK-01
+*******
+-------------------------
+  ~ mySQL
+  ~ The Head First Servlets book
+  ~ durgasoft pdf.
+  ~ how to compile.
+  ~ instance in aws
+  ~ kubernetes reading.
+--------------------------
+
+=======================
+ Sunday Assignment
+=======================
+Programs should be ready in Eclipse before monday!
+1)array list , - done
+2)hashset,- done
+3)linklist, - done
+4)treeset, - done
+5)hashmap, - 39
+6)treemap,-41
+7)cursor- iterator.
+8)for loop,while loop,do loop.- assignment
+
+************
+16-JULY-2023
+************
+Task-
+We have to make programs
+
+************
+17-JULY-2023 - Topic (Datastructure)
+************
+TASK-
+Revision Of mysql -
+1)Table,
+2)Row,
+3)coloumn ,
+4)How to make table,
+5)how to insert data in a table
+6)what is Primary key
+7)what is foreign key.
+8)Primary key ,foreign key constraints.
+9)select query
+10)keywords - delete,create,update,insert.
+
+Task-2
+10 programs in copy with diagram on todays topic.
+
+
+************
+18-JULY-2023
+************
+In object class there are 12 methods and 1 constructor learn with name.
+
+
+
+---------------
+Remaining NOTES
+---------------
+shell script basics and commands for terminal
+spring cloud
+Front-END
+----
+Task
+-----
+
+-->Collection-framework
+-->kubernetes pod and service
+-->order ka likhna hain
+-->
+functional interface
+lambda expression -->java 8
+streams
+mvc youtube lecture
+Serializable
+Json to java object
+
+----------
+01-10-2023
+----------
+Spring boot + Core JAVA
+Sonar lint --> plugin dalna hain
+Agile methodology --> vlog
+
+-----------
+Singly LinkList - library
+behavior / function
+add / insert
+remove
+size
+printAll
+get
+getByIndex
+getFirst
+getLast
+
+---------
+11-10-2023
+---------
+Important pdf-
+
+Java.lang
+OOPS
+Collection
+
+NoClassDefFoundError
+ClassNotFoundException
+
+development
+
+lymbda expression -- done
+functional interface -- done
+--
+29-10-2023
+--
+ExceptionalHandling
+sonarKube
+shell scripting
+reflection
+java 8 features
+Serializable
+Enum
+modules
+
+--------
+SonarQUBE
+
+mvn clean verify sonar:sonar
+-Dsonar.projectKey='e-commerce'
+-Dsonar.projectName='e-commerce'
+-Dsonar.host.url=http://localhost:9000
+-Dsonar.login="admin"
+-Dsonar.password="admin1"
+
+---------
+Integration
+e.g
+ZOHO- BI Analytics
+Gmail
+Task-01
+OAuth2.0
+Task-02
+open api Specification
+
+STRIKE
+OAUTH 2.0
+        -- Grant Type --> Types
+              -- i) Password
+              -- ii) Implicit  (koi use nai krte)
+              -- iii) Client Credentials (Machine-to-machine-Integration) --(99%)
+              -- iv)  Authorisation code      (second imp)
+RFC Specification
+OCTA - gives Authorisation service
+
+client Id :
+894893719467-o56t65kd6vr9m9b65fpb3l24261ub8bv.apps.googleusercontent.com
+
+client secret :
+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
+
+
+
+
+
+---
+Sadick
+
+Git krna hain private keys
+lambda
+reflection

@@ -1,0 +1,73 @@
+***************************************
+Process/Steps while creating web Appilication:
+***************************************
+
+Step 1: Create a new spring boot maven project in Eclipse.
+
+Step 2:
+
+---------------------------
+API for jhola-application
+----------------------------
+DeleteProduct --> soft-delete
+CreateProduct
+GetProductById
+GetProductByType
+GetAllProduct
+updateproduct
+
+----------
+Forms--> frontend --> component
+sign up  (firstname , lastname , phonenumber , password , email)
+sign in  (username , password)
+
+Backend --> In security
+name = usercontroller
+
+sign up/register --> API
+login/sign in --> API
+
+
+----------------------------
+BaseMODEL/DTO/Entity -->
+
+attributes --> isdeleted
+          --> created by
+          --> created at
+          --> updated at
+------
+
+New class --> vendor
+  attributes --> vendorId
+                 vendorName
+                 vendorLocation (city,country,pincode) --> enum
+                 Currency
+
+
+ product ki dto mein
+ --> vendorId
+
+-------------
+--> Quanity
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  sts
+  volume mount

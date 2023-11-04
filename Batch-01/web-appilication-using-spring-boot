@@ -1,0 +1,21 @@
+=================================================================
+************Web-Appilication-Using-Spring-Boot******************
+==================================================================
+banner.txt is use to change the banner of the spring boot Appilication.
+----------------------
+Important Annotation
+----------------------
+
+1) @SpringBootApplication
+2) @RestController
+3) @PostMapping
+4) @GetMapping
+5) @PutMapping
+6) @DeleteMapping
+7) @RequestBody
+8) @PathVariable
+9) @Component
+10)@Autowired
+
+NOTE: LOW Code or NO Code.
+NOTE: DRY - donot repeat yourself 

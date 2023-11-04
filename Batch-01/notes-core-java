@@ -1,0 +1,32 @@
+****************************************************************************
+              -------------JAVA NOTES----------------
+****************************************************************************
+
+           *JAVA IS OOPS (object oriented programming system)*
+
+----------
+Iterator:
+----------
+1. We can use Iterator to get objects one by one from any collection object.
+2. We can apply Iterator concept for any collection object and it is a universal cursor.
+3. While iterating the objects by Iterator we can perform both read and remove
+operations.
+We can get Iterator object by using iterator() method of Collection interface.
+Iterator itr=c.iterator();
+Iterator interface defines the following 3 methods.
+1. public boolean hasNext();
+2. public object next();
+3. public void remove();
+
+Example:
+import java.util.*;
+class IteratorDemo
+{
+  public static void main(String[] args)
+  {
+    ArrayList a=new ArrayList();
+    for(int i=0;i<=10;i++)
+    {
+      a.add(i);
+    }
+    System.out.println(a);

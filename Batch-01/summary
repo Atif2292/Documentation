@@ -1,0 +1,65 @@
+----
+SUMMARY --> Class Date - 26/10/2023
+----
+
+http/https -->  TLS/ SSL --> for encryption/decryption of data
+TLS(transport layer security)
+SSL(secure socket layer)
+
+http -> 8080
+https-> 443
+
+build tool -> web pack
+
+
+ -----
+ JAVA EDITION
+ -----
+
+1) JSE/J2SE --> Java standard edition --> Core JAVA , Standalone app / console
+based app / GUI based app
+
+2) JEE / J2EE --> Java Enterprise Edition –>Advance JAVA -->JDBC, Servlets
+(pehle data html page ek ek page ata tha browser pe pehle se ni rhta tha),
+( JSP , EJB , Structs) --> (legacy ya framework),
+
+Spring -> latest
+
+JSP and servlet --> build --> WAR (Web application ARchive) --> deploy --> tomcat
+
+Tomcat --> Apache Tomcat breaking it into apache --> userServer and Tomcat -->
+servlet container
+
+3) JME / J2ME  --> Java micro edition --> mobile ,embedded app
+
+
+----
+Sonar Lint(For writing Standard code)
+----
+
+SonarLint is an IDE extension that helps you detect and fix quality issues as you write code
+
+Build (Compile) (CI --> continuous Integration) ~~~> Deployment (Run)
+ (CD-> Continuous Deployment) ~~~> CD -> Continuous Delivery
+
+
+ Environments --> DEVLOPS
+                     -->Development Environment
+              --> QA
+                     --> Integration
+                     --> dry-run
+             -->PRODUCTION
+
+Note : No real database is used in testing
+
+----
+JENKINS
+----
+  Task ko automate karta hain
+
+  pipelines bnata hain CI/CD ki
+                      --> CI (Build)--> (Jar)--> (Image)-->(manifest file)
+                      / CD (deploy)-->Run appilication
+
+NOTE:Sare steps is pipelines mein likhi hogi(kisme kaya krna hain wo steps krke de dega)
+Devlops ki , QA ki , PRODUCTION ki
